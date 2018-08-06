@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1524535837 source:z:\cs\cs361\example1\main.cpp
+	<iostream>
+	<cstdlib>
+	<queue>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	<BinarySearchTree.h>
+
+1524536197 z:\cs\cs361\example1\include\binarysearchtree.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1524535838 source:z:\cs\cs361\final\p5\main.cpp
+	<iostream>
+	<cstdlib>
+	<queue>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	<BinarySearchTree.h>
+
+1524536198 z:\cs\cs361\final\p5\include\binarysearchtree.h
+	<iostream>
+	<cstdlib>
+	<queue>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
